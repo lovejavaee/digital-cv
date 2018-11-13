@@ -1,1 +1,1 @@
-<a href="http://lovejavaee.github.io" target="_blank">lovejavaee.github.io</a>
+[lovejavaee.github.io](http://lovejavaee.github.io)
