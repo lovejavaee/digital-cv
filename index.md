@@ -1,7 +1,10 @@
 # Jeff M
 ## Senior Java Developer, C++, Cloud, Fullstack
 
-> [Download PDF](resume.pdf)  
+> [digital-cv](https://lovejavaee.github.io/digital-cv/)
+
+> [Download PDF](resume.pdf)
+
 > GPG Key ID : 0x6B5E140C
 <!-- [xx@abc.com](xx@abc.com) -->
 <!-- (999) 888-7777 -->
@@ -181,7 +184,7 @@ Progressively evolve cross-platform ideas before impactful infomediaries. Energi
 1. Supervised team of developers in analysis and creation of [Type] software.
 
 ### Footer
-<!-- Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777 -->
+<!-- Craig Davis -- [xx@abc.com](xx@abc.com) -- (999) 888-7777 -->
 > GPG Key ID : 0x6B5E140C
 
 ------
