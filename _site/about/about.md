@@ -11,7 +11,7 @@ I’m passionate about building great engineering teams, and building products t
 4. I created [Jekyll Now](https://github.com/barryclark/jekyll-now), which a lot of folks use as a starting point for their GitHub hosted blog.
 5. I keep a running [bucket list](/about/bucket-list) of things I want to do before I die.
 
- ## Connect
+## Connect
 
-- [GPG key ID: [0x6B5E140C]
+- [GPG key ID]:(0x6B5E140C)
 - [GitHub](https://www.github.com/lovejavaee)
