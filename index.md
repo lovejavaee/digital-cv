@@ -6,9 +6,9 @@
 layout: home
 ---
 
-Welcome to my *Jeff Blog*.
+Welcome to *My Blog*.
 
 ## Table of contents
 
-For developers - this is a list of all collections and the pages under each.
+For developers - this is a list of all collections and the pages under each
 
