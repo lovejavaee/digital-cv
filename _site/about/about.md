@@ -9,7 +9,7 @@ I’m passionate about building great engineering teams, and building products t
 2. As a professional poker player I once turned a single $10 deposit into $100,000.
 3. At Rockstar Games I designed and programmed gunfights and car chases in Grand Theft Auto 4.
 4. I created [Jekyll Now](https://github.com/barryclark/jekyll-now), which a lot of folks use as a starting point for their GitHub hosted blog.
-5. I keep a running [bucket list](bucket-list) of things I want to do before I die.
+5. I keep a running [bucket list] of things I want to do before I die.
 
 ## Connect
 

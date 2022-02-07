@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 # Things to do before I die
 
