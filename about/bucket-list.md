@@ -1,6 +1,5 @@
 ---
-layout: post
-permalink: /about/bucket-list
+
 ---
 
 # Things to do before I die
