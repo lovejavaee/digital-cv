@@ -1,7 +1,4 @@
-
-
-
-# Things to do before I die
+## Things to do before I die
 
 I started this list when I was 21 years old. The only rule is that I can never (ever!) delete items from it. I can only add to it.
 
