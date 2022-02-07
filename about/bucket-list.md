@@ -1,5 +1,5 @@
 ---
-
+layout: page
 ---
 
 # Things to do before I die

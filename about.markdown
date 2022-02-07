@@ -5,4 +5,3 @@ permalink: /about/
 ---
 
 {% include_relative about/_about.md %}
-
