@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "bucket-list"
+# layout: page
+# title: "bucket-list"
 permalink: /about/bucket-list/
 ---
 
