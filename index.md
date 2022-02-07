@@ -14,9 +14,9 @@ Hi there 👋
   <img src="https://raw.githubusercontent.com/lovejavaee/lovejavaee/main/stars.gif" />
 </p>
 
-Here goes Jeff M, a CS M.S. student who foucks on computer systems design, distributed Systems, ML and HPC
+Here goes Jeff M, a CS M.S. student who foucks on computer systems design, distributed Systems, ML and HPC.
 
-I have years of work experience on microservices, high concurrency, high performance web development
+I have years of work experience on microservices, high concurrency, high performance web development.
 
 - 🔭  I’m currently studying on ML, System design, Distributed Systems, like to become a computer scientist
 - 😄  Pronouns: He/His
