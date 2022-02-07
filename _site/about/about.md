@@ -13,5 +13,5 @@ I’m passionate about building great engineering teams, and building products t
 
 ## Connect
 
-- [GPG key ID]:(0x6B5E140C)
+- [GPG key ID](0x6B5E140C)
 - [GitHub](https://www.github.com/lovejavaee)
