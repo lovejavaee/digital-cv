@@ -6,12 +6,12 @@
 layout: home
 ---
 
-### Hi there 👋
+Hi there 👋
 
 <h3 align="center">Welcome 🍵</h3>
 <p align="center">
   <br><br>
-  <img src="https://github.com/lovejavaee/lovejavaee/blob/main/stars.gif" />
+  <img src="https://raw.githubusercontent.com/lovejavaee/lovejavaee/main/stars.gif" />
 </p>
 
 Here goes Jeff M, a CS M.S. student who foucks on computer systems design, distributed Systems, ML and HPC
