@@ -4,9 +4,7 @@ type: post
 
 
 
-## Python Remote object communication library
-
-
+## Pyro - Python Remote object communication library
 
 
 

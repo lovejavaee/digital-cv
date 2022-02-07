@@ -1,3 +1,9 @@
+---
+type: post
+---
+
+
+
 ## LRPC - Lightweight RPC
 
 Lightweight RPCs are the special case of RPCs where calling process and the called process are on the same machine. Remember the two forms of communication of a distributed system – explicit (passing data) and implicit (sharing memory). You can think of not using a RPC system for the special case that both processes are on the same machine but using a shared piece memory. The optimization is to construct the message as a buffer and simply write to the shared memory region. When client and server both are two processes on the same machine and you make RPC calls between two components on the same machine, following are the things which can make it better over the traditional RPC.
