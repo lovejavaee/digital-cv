@@ -1,0 +1,73 @@
+---
+layout: post
+---
+
+# Things to do before I die
+
+I started this list when I was 21 years old. The only rule is that I can never (ever!) delete items from it. I can only add to it.
+
+- ~~Eat Kobe beef~~
+- ~~Eat steak at Peter Lugers~~
+- ~~Eat a 15+ course meal~~
+- Fly a helicopter
+- Fly a plane
+- ~~Walk across the Brooklyn bridge~~
+- Perform guitar, drums and vocals in gigs
+- Busk in an NYC subway
+- Visit 6 continents: Africa, ~~Asia~~, ~~Australia & Oceania~~, ~~Europe~~, ~~North America~~, ~~South America~~
+- ~~Live in NYC~~
+- ~~Live next to a beach~~
+- Fire an ak47
+- ~~Fire a desert eagle~~
+- Go camping with my dad and brother
+- Drive an Aston martin
+- Hand slap tip someone in vegas
+- ~~Do a Beer bong Frank The Tank style~~
+- ~~Drink beer in Munich~~
+- Swim 1/2 a mile
+- Knock out 10 pullups easily
+- Ride a jetski
+- ~~Skydive~~
+- Host a party with a bathtub filled with ice and beer
+- Learn to cook better mac cheese than anyone I know
+- ~~Drink vodka in Moscow~~
+- ~~Eat a cheesesteak in Philly~~
+- Write a song for a girl
+- Drink a Guinness in Ireland
+- Get beaten up
+- ~~Go to a music festival~~
+- ~~Drive soft top sports car in the USA~~
+- ~~Eat pizza and pasta in Italy~~
+- ~~Visit Akihabara~~
+- ~~Visit a cat cafe~~
+- Learn how to whistle with fingers
+- Learn how to blow smoke rings (this is so tough!)
+- ~~Wine tasting~~
+- ~~Chocolate tasting~~
+- ~~Speak at a conference~~
+- ~~Release an open source project that thousands of people find useful~~
+- ~~Have a BBQ on my rooftop~~ (and pretty much set fire to the roof!)
+- ~~Play a pickup game~~
+- ~~Eat at the best deli in NYC (kats~~ – hah! Clearly Graham Ave Meats and Deli is the best)
+- ~~Eat at best pizza place in NYC – Grimaldi’s + Artichoke for me!~~
+- Ride a black run at whistler
+- ~~Experience a natural hazard~~ – 5.9mag earthquake in Virginia shook up NY
+- ~~See an NHL game~~
+- ~~See sumo wrestling in Japan~~
+- See cagefighting
+- See a football game in South America
+- ~~Eat from taco truck (clearly this is an important one)~~
+- Play Chess in park
+- ~~Eat at Google HQ~~
+- Light a good fire from scratch
+- ~~Go boat riding at the Everglades~~
+- ~~Crowdsurf~~
+- Go deep sea fishing
+- Identify at least 10 constellations
+- Visit the best 10 national parks in the US
+- ~~Drive a Porsche 911 flat out~~
+- Get a motorcycle license
+- Full throttle a >600cc motorcycle to 100mph
+- ~~$10k challenge: grow $10 in to $10k at poker~~
+- Kill, cook, and eat a wild animal
+- Visit every US state

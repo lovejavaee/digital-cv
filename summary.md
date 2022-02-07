@@ -4,7 +4,7 @@ title: Summary
 permalink: /summary/
 ---
 
-### Summary
+### <!--Summary-->
 
 - 8+ years experienced software engineer skilled in leading the development of multiple commercially successful products from scratch, with active involvement throughout the development life cycle.
 
