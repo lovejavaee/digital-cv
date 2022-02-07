@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-06T16:02:35-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jeff’ Page</title><subtitle>Systems Design, Distributed Systems, ML</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2022/02/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-06T12:36:24-05:00</published><updated>2022-02-06T12:36:24-05:00</updated><id>http://localhost:4000/2022/02/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2022/02/06/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-06T19:14:26-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home Pages</title><subtitle>Systems Design, Distributed Systems, ML</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2022/02/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-06T12:36:24-05:00</published><updated>2022-02-06T12:36:24-05:00</updated><id>http://localhost:4000/2022/02/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2022/02/06/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -14,226 +14,7 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">CV</title><link href="http://localhost:4000/2022/02/06/cv.html" rel="alternate" type="text/html" title="CV" /><published>2022-02-06T00:00:00-05:00</published><updated>2022-02-06T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/06/cv</id><content type="html" xml:base="http://localhost:4000/2022/02/06/cv.html"><![CDATA[<h1 id="jeff-m">Jeff M</h1>
-<h2 id="senior-java-developer-c-cloud-fullstack">Senior Java Developer, C++, Cloud, Fullstack</h2>
-
-<blockquote>
-  <p><a href="https://lovejavaee.github.io/digital-cv/">digital-cv</a></p>
-</blockquote>
-
-<blockquote>
-  <p><a href="resume.pdf">Download PDF</a></p>
-</blockquote>
-
-<blockquote>
-  <p>GPG Key ID : 0x6B5E140C
-<!-- [xx@abc.com](xx@abc.com) -->
-<!-- (999) 888-7777 --></p>
-</blockquote>
-
-<hr />
-
-<h3 id="profile">Profile</h3>
-
-<p>Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.</p>
-
-<hr />
-
-<h3 id="skills">Skills</h3>
-
-<ul>
-  <li>
-    <dl>
-      <dt>Agile development methodologies</dt>
-      <dd>Iterative approach to project management and software development, working software over comprehensive documentation; customer collaboration over contract negotiation; and. responding to change over following a plan.</dd>
-    </dl>
-  </li>
-  <li>
-    <dl>
-      <dt>SDLC processes</dt>
-      <dd>Planning, analysis, design, building, testing, deployment and maintenance.</dd>
-    </dl>
-  </li>
-  <li>
-    <dl>
-      <dt>Application development</dt>
-      <dd>Design, develop, and deploy…</dd>
-    </dl>
-  </li>
-</ul>
-
-<hr />
-
-<h3 id="technical--programming-languages">Technical &amp; Programming Languages</h3>
-<ol>
-  <li>Java</li>
-  <li>C++</li>
-  <li>Python</li>
-  <li>Shell</li>
-  <li>ML/DL</li>
-  <li>SQL</li>
-  <li>XML/XSD</li>
-  <li>Windows XP/Vista</li>
-  <li>Unix/Linux</li>
-</ol>
-
-<hr />
-
-<h3 id="tools--apis--libraries">Tools &amp; APIs &amp; Libraries</h3>
-
-<ol>
-  <li>Clion</li>
-  <li>Intellij IDEA</li>
-  <li>Xcode</li>
-  <li>VSCode</li>
-  <li>OpenCV</li>
-  <li>Unity</li>
-  <li>Git/Github</li>
-  <li>CMake/Maven</li>
-  <li>Linux</li>
-  <li>Docker</li>
-  <li>K8s</li>
-  <li>Spring Boot</li>
-  <li>Heroku</li>
-  <li>AWS/GCP</li>
-</ol>
-
-<hr />
-
-<h3 id="experience">Experience</h3>
-<ol>
-  <li>Developed user interfaces and display formats per customer requests and client-provided parameters.</li>
-  <li>Created and reviewed operational database assets for software releases.</li>
-  <li>Wrote, tested and deployed Python and React code, verifying operational and UX integrity for releases.</li>
-  <li>Collaborated with backend personnel to design structure and processes optimized for product parameters.</li>
-  <li>Wrote code specifically for use in asynchronous architecture environments.</li>
-  <li>Modified internal web tools used in software design processes to streamline operations.</li>
-  <li>Updated existing RESTful APIs and corresponding documentation to suit changing requirements.</li>
-  <li>Designed user-friendly software interfaces to simplify overall management.</li>
-  <li>Implemented and tested enhancement feature requests to improve product functionality and extend performance.</li>
-  <li>Documented technical specifications and project testing methods for future reference and other assignments.</li>
-  <li>Collaborated with agile development team to test, develop and maintain web and desktop-based software applications.</li>
-  <li>Communicated with and gathered feedback from customers about progress updates and worked to resolve specific concerns.</li>
-  <li>Conducted full lifecycle software development in multiple software environments.</li>
-  <li>Performed functional, non-functional, regression and performance tests for updated systems.</li>
-  <li>Drafted detailed design objectives and developed architectural and system design documents.</li>
-  <li>Created proof-of-concept prototype applications for demonstration and evaluation purposes.</li>
-  <li>Logged and implemented development tasks based on system requirements and documented approaches.</li>
-  <li>Introduced automation tools to reduce redundancy and enhance workflow.</li>
-  <li>Collaborated with product and engineering team members to define and develop new product concepts.</li>
-  <li>Developed proofs of concept for creative new solutions.</li>
-  <li>Delivered software solutions consistent with product roadmap, release plan milestones and key performance indicators.</li>
-  <li>Coordinated with project managers across multiple initiatives to align development timelines, plan testing and work with client representatives.</li>
-  <li>Liaised with QA testers to perform end-to-end unit testing and post-production testing.</li>
-  <li>Instrumented and modified unit and integration tests to improve software quality and reliability.</li>
-  <li>Evaluated software development project plans and recommended adjustments.</li>
-  <li>Led working groups to develop mitigation strategies and prepare standard operating procedures.</li>
-  <li>Cooperated with project partners to create development software roadmap based on client specifications and user-guided design.</li>
-  <li>Analyzed solutions and coding fixes for software problems.</li>
-  <li>Identified issues in software processes and implemented optimization techniques resulting in productivity increase.</li>
-  <li>Devised test case plans based on real-world use case scenarios to produce high-quality results and improvement in development timeline.</li>
-  <li>Met with stakeholders, contractor product teams and customers throughout system development lifecycle.</li>
-  <li>Scheduled ongoing performance assurance for software applications and automated performance test scripts.</li>
-  <li>Developed cross-platform activity feed for social networking software products.</li>
-  <li>Recommended key updates to system software based on performance data, user feedback and integrated software enhancements.</li>
-  <li>Collaborated with user experience designers to create clean interfaces and simple, intuitive interactions and functions for software package.</li>
-  <li>Assessed technical architecture and framework and designed business applications to exceed client expectations.</li>
-  <li>Wrote cross-platform software for serviceability components and exported system performance counters.</li>
-  <li>Integrated scanning component based on server system.</li>
-  <li>Participated in sales presentations to translate user needs into easy-to-understand software solutions.</li>
-  <li>
-    <p>Formed dynamic team of software engineers to implement tiger team approach to critical issues affecting production.</p>
-  </li>
-  <li>Created technical workflows in wiki to support education and training of newly hired employees.</li>
-  <li>Initiated efforts to migrate legacy applications to [Software] platform.</li>
-  <li>Mentored and developed junior developers and engineers to increase productivity.</li>
-  <li>Performed estimates of work hours and tracked progress using Agile and Scrum methodology.</li>
-  <li>Performed root cause analysis of problems, documented faults in tracking system and generated daily reports.</li>
-  <li>Integrated web-based services into software for distribution via on-premise and cloud-based deployments.</li>
-  <li>Set idiomatic syntax and design patterns for engineering staff.</li>
-  <li>Participated in agile development of products within cross-functional frameworks.</li>
-  <li>Developed customized solutions for data pipelines using SWL and NoSQL data stores.</li>
-  <li>Planned and created scalable and extensible systems for growing companies with intended expansion tracks.</li>
-  <li>Drafted standardized development practices to streamline and increase reliability of repetitive tasks.</li>
-  <li>Implemented and monitored vital analytics to record and track development progress metrics.</li>
-  <li>Created cloud-native platforms and software, optimizing products to work in distributed computing environments.</li>
-  <li>Created and implemented forward-thinking systems to meet user needs and improve productivity.</li>
-  <li>Developed product and technology roadmap and strategy from concept to launch.</li>
-  <li>Collaborated with development team members to create and integrate high availability solutions for mission-critical applications.</li>
-  <li>Cooperated with project partners to develop system analysis and new system design based on client specifications.</li>
-  <li>Worked closely with development team members to identify and remove software bugs.</li>
-  <li>Designed mobile applications for Apple and Android platforms.</li>
-  <li>Monitored equipment functionality to verify optimal performance and adjust system controls.</li>
-  <li>
-    <h2 id="researched-and-conceptualized-data-analysis-methods-to-improve-reliability-and-manufacturability-of-measurement-tools">Researched and conceptualized data analysis methods to improve reliability and manufacturability of measurement tools.</h2>
-  </li>
-</ol>
-
-<h3 id="ml">ML</h3>
-
-<ol>
-  <li>Identified, researched and evaluated innovative machine learning technologies, explaining details to coworkers.</li>
-  <li>Participated in meetings, code reviews, demos, design sessions, and project retrospectives.</li>
-  <li>Designed and deployed machine learning models into product stack in support of product development.</li>
-  <li>Established scalable automated processes to develop, validate and implement machine learning models.</li>
-  <li>Reviewed code changes made by team for accuracy and relevance.</li>
-  <li>Communicated complex machine learning solutions and concepts to diverse group of business stakeholders in clear, concise language.</li>
-  <li>Gathered customer requirements and developed machine learning product features to address needs.</li>
-  <li>Researched, designed and deployed next generation of architectures, workflows and standards to integrate with key product features across organization.</li>
-  <li>Facilitated integration of machine learning services into technology infrastructure.</li>
-  <li>Initiated A/B tests to validate model performance prior to production.</li>
-  <li>Partnered with [Job title] to create model training workflows for use by end-users.</li>
-  <li>Mentored and coached team of [Number] [Job title]s to support career growth.</li>
-  <li>Developed software for embedded systems, coding solutions for both new installations and in-situ hardware.</li>
-  <li>Recommended strategies to maximize performance and lifespan of equipment involved in software installations.</li>
-  <li>Assessed code during testing stage to determine potential glitches and bugs.</li>
-  <li>Participated in intra-organizational staff meetings to coalesce company-wide efforts around meeting prescribed business goals and addressing client concerns.</li>
-  <li>Updated software upon release of vendor patches to mitigate vulnerabilities.</li>
-  <li>Monitored equipment function to verify conformance with specifications.</li>
-  <li>Managed [Number] junior developers by delivering consistent coaching and constructive feedback.</li>
-  <li>Modified existing software to correct errors, adapt to newly implemented hardware or upgrade interfaces.</li>
-  <li>Applied security measures into systems development, supporting final products’ resistance to intrusion and exploitation.</li>
-  <li>Identified opportunities for process improvements to decrease in support calls.</li>
-  <li>Coordinated testing and validation procedures through software development lifecycle.</li>
-  <li>Analyzed code and corrected errors to optimize output.</li>
-  <li>Obtained and evaluated information on hardware configuration costs, reporting requirements and security needs.</li>
-  <li>Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions.</li>
-  <li>Performed troubleshooting of post-release software faults to support live service and installed software patch design.</li>
-  <li>Developed requirements for system modifications and new system installations.</li>
-  <li>Worked closely with systems analysts, engineers and programmers to understand limitations, develop capabilities and resolve software problems.</li>
-  <li>Recommended improvements to facilitate team and project workflow.</li>
-  <li>Improved and corrected existing software and system applications.</li>
-  <li>Analyzed user needs and software requirements to determine design feasibility.</li>
-  <li>Established clear system performance standards and wrote specifications.</li>
-  <li>Employed integrated development environments (IDEs).</li>
-  <li>Wrote user manuals and other documentation for roll-out in customer training sessions.</li>
-  <li>Utilized established design patterns to expedite novel software creation and support consistent performance results.</li>
-  <li>Designed software for real-time operating systems QNX, ThreadX and others.</li>
-  <li>Integrated object-oriented design and development techniques into projects to support usability goals.</li>
-  <li>Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.</li>
-  <li>Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal development approaches.</li>
-  <li>Applied prescribed policies to programming syntax in compliance with internal language policies.</li>
-  <li>Reviewed project requirements to identify customer expectations and resources needed to meet goals.</li>
-  <li>Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.</li>
-  <li>Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective solutions.</li>
-  <li>Coordinated system installations, testing and code corrections.</li>
-  <li>Established and maintained key relationships with business stakeholders to promote future opportunities.</li>
-  <li>Implemented unit and integration testing protocols to consistently deliver high quality, functional features with minimal defects.</li>
-  <li>Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final implementation.</li>
-  <li>Designed, developed and implemented firmware to support embedded system product concepts.</li>
-  <li>Devised automation, backup and recovery protocols to preserve and safeguard data.</li>
-  <li>Coordinated installation of software systems and collaborated with user experience team on design and implementation of new features.</li>
-  <li>Supervised [Number]-person team, discussed project roadblocks to drive issue resolution and promoted use of best practices.</li>
-  <li>Supervised team of developers in analysis and creation of [Type] software.</li>
-</ol>
-
-<h3 id="footer">Footer</h3>
-<!-- Craig Davis -- [xx@abc.com](xx@abc.com) -- (999) 888-7777 -->
-<blockquote>
-  <p>GPG Key ID : 0x6B5E140C</p>
-</blockquote>
-
-<hr />]]></content><author><name></name></author><summary type="html"><![CDATA[Jeff M Senior Java Developer, C++, Cloud, Fullstack]]></summary></entry><entry><title type="html">Application Performance &amp;amp; JVM Hot Spot Tuning</title><link href="http://localhost:4000/2022/01/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html" rel="alternate" type="text/html" title="Application Performance &amp;amp; JVM Hot Spot Tuning" /><published>2022-01-02T00:00:00-05:00</published><updated>2022-01-02T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/02/Application-Performance-and-JVM-Hot-Spot-Tuning</id><content type="html" xml:base="http://localhost:4000/2022/01/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html"><![CDATA[<table>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">Application Performance &amp;amp; JVM Hot Spot Tuning</title><link href="http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html" rel="alternate" type="text/html" title="Application Performance &amp;amp; JVM Hot Spot Tuning" /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning</id><content type="html" xml:base="http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html"><![CDATA[<table>
   <tbody>
     <tr>
       <td> </td>
@@ -861,4 +642,402 @@
       <td>http://javaproseeker.blogspot.jp/2014/08/anatomy-of-g1-garbage-first-collector.html</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[      Aspects of Slow Performing Applications   Application Level Problems   Multi-Threading/Deadlock Issues   Transactional/Synchronizations Issues   Memory Allocation/Management Issues   Bad Application Architecture   Un-Suitable OR Less Capable Framework Selection   Under or Over Estimated Application Capacity or Load   Bad Coding Issues   No Better or Suitable Use of Cache, No SQL DB   Bad Query Writing (If Applicable)   Infrastructural Level Problems   Application Layers/Tiers Bottlenecks   IO Calls/Resources Bottlenecks (Application, Cache, DB)   Underperformed or Already Heavily Loaded Physical Servers (Application, Cache, DB)   Not Properly Tuned Physical Servers for OS, DB, Cache, JVM/Tomcat   Infrastructural Bottlenecks (Firewalls, VPNs, Security Layers, Network Channel)   Mis-Calculated Failover or Scalability Strategy           Aspects To Consider For Great Performing Applications   Application Level Considerations   Concurrency Aspects [To Be Taken Care, During Design &amp; Implementation]: Following are important aspects of a distributed, multi-tier, concurrent &amp; multi- threaded applications, which needed to be taken care care of during design &amp; implementation:       Smooth &amp; Concurrent Application Logging       Graceful Exception/Error Handling especially Deadlocks       Graceful Transaction Handling considering ACID Approach (Either Optimistic or Pessimistic Locking)       Parallel &amp; Sequential Request Handling Capability       Usage of Thread Safe &amp; Concurrent Data Structures &amp; Collections       Adapting &amp; Utilizing Design Patterns e.g. GoF or SOLID       Using Code Review Tools e.g. Sonar, FindBug, PMD       Adapting &amp; Utilizing Performance Best Practices During Design &amp; Coding       Code Reviews w.r.t Performance       Regression / Load / Performance Testing       Application Performance Management &amp; Review w.r.t Load &amp; Volume using Regression Testing       Application Performance Benchmarking using Performance Testing       Identification of Resources OR Memory Leaking using Profiling Tools       Optimise Use of Cache &amp; DB       DBMS Tuning (Proper Clustered &amp; Non-Clustered Indexes &amp; Choice of Rights Indexes w.r.t Load and Data Type)       Optimized SQL Query Writing (If Applicable), Reviewed Query Execution Plans w.r.t Indexes       Use of Cache OR No SQL DB for Static or Long Lived Data Objects               Infrastructural Level Considerations   Scalability Strategy:   Horizontal (Application Nodes)       Vertical (Application Tiers/Layers)       Failover &amp; High Availability Strategy:   Application Level (Parallel Nodes)   Application Server Level (e.g. Tomcat)   Server Level (e.g. Physical Machine)   Data Center Level (e.g. Data Center A)   Region Level e.g. (e.g. EU, US, LAC, AP, CEMEA)   Data Management   Data Volume Forecasting w.r.t DB Nodes &amp; Disk Space Required (Monthly, Quarterly and Yearly)   Data Capacity Planning w.r.t Data Volume   Data Archiving &amp; Purging Strategy   DB Load Management, Database Failover &amp; Recovery Strategy   Multiple DB Nodes Handling Strategy &amp; e.g. Primary, Secondary, Tertiary   Syncing &amp; Real-time Backups of DB   Offline Database Backups Strategy       Non-Functional Considerations   Handling N Concurrent Requests/Users   Handling High Data Volume   Optimization and Performance   Multi-threading and Concurrency   Portability   High Availability   Vertical &amp; Horizontal Scalability   Security Benchmarking   Performance Benchmarking   Threat Modeling &amp; Vulnerability Scans   Continuous Integration   Multi Hardware, OS, JDK, DB, App Servers, Internet Browsers, Protocols &amp; Use Agents Support           Fine Tuned JVM for Better Garbage Collection and Application Performance   The Java Garbage Collector is referred to as a Generational Garbage Collector. Objects in an application live for varying lengths of time depending on where they are created and how they are used. The key insight here is that using different garbage collection strategies for short lived and long lived objects allows the GC to be optimised specifically for each case. Loosely speaking as objects “survive” repeated garbage collections in the Young Generation they are migrated to the Tenured Generation. The Permanent Generation is a special case, it contains objects that are needed by the JVM that are not necessarily represented in your program, for example objects that represent classes and methods.       Java Heap Memory is part of memory allocated to JVM by Operating System. Whenever we create objects they are created inside heap in java. Java Heap space is divided into three regions or generation for sake of garbage collection called Young Generation, Old or Tenured Generation and Permanent Generation.       The Young Generation is where all new objects are allocated and aged. When the young generation fills up, this causes a minor garbage collection. A young generation full of dead objects is collected very quickly. Some surviving objects are aged and eventually move to the old generation.       The Old Generation is used to store long surviving objects. Typically, a threshold is set for young generation object and when that age is met, the object gets moved to the old generation. Eventually the old generation needs to be collected. This event is called a major garbage collection.       The Permanent Generation contains metadata required by the JVM to describe the classes and methods used in the application. The permanent generation is populated by the JVM at runtime based on classes in use by the application. PermGen has been replaced with Metaspace since Java 8 release. PermSize &amp; MaxPermSize parameters will be ignored now.       Following are the factors which can affect the performance of JVM and in result performance of application:       Number of Iterations of Full/Major Garbage Collection   Uncontrolled &amp; Frequent Iterations of Minor Garbage Collection   Managing Heap Size and Stack Size / Thread Process Space   JIT Optimization   Selection of Appropriate GCs For Young &amp; Tenured Memory Space   Running JVM On Defaults w/o Understanding Nature of System   Scope of Tuning of System e.g. For Throughtput, Handling Short or Long Lived Objects, Batch Routines, Heavy Processing   Non-Heap GC   Although applications performance is mainly rely on, how it is developed and/or aptitude of programming and/or good programming practices. Surely tuning JVM will not solve problems related to bad programming or selection of inappropriate data structures. But with the help fine tuned JVM we can get better results w.r.t handling of unusual load and better throughput and memory management.       Proposed JVM Settings       -server -Xss4m -Xms4096m -Xmx4096m -XX:+UseG1GC -XX:+HeapDumpOnOutOfMemoryError -XX:+AggressiveOpts -XX:+DoEscapeAnalysis -Xnoclassgc -XX:+UseBiasedLocking -XX:ReservedCodeCacheSize=48m -XX:+UseCompressedOops   -XX:+UseStringDeduplication -XX:MaxGCPauseMillis=200 -XX:GCPauseIntervalMillis=4000       -XX:+AggressiveOpts: JVM performance optimisation, it enables some internal mechanism of JVM for better throughput and memory management       -XX:+UseBiasedLocking: Performance optimisation of locking mechanism specifically synchronization       -XX:+DoEscapeAnalysis: less GC activity and 14x faster execution of code       -XX:ReservedCodeCacheSize: JIT optimization       -XX:+UseStringDeduplication: https://blog.codecentric.de/en/2014/08/string-deduplication-new-feature-java-8-update-20-2/       -XX:+UseCompressedOops: When this option is enabled, object references are represented as 32-bit offsets instead of 64-bit pointers, which typically increases performance when running the application with Java heap sizes less than 32 GB. This option works only for 64-bit JVMs.       As we are aware that all the GCs are “Stop The World”, even CMS and G1GC when there is need of Full/Major GC. But G1GC has special capability, that it’ll collect memory with minor garbage collection during normal transaction processing without being stoping any operations/thread within JVM. Because G1Gc supports Parallelism, Concurrency and Multi-Threading.       The purpose of these below JVM Params controlling Major GC:       -XX:MaxGCPauseMillis=200: The value of this param will pause/stop all threads for 200 Millis for Garbage Collection.       -XX:GCPauseIntervalMillis=4000: Using value of this params G1GC will look after 4 seconds to see if there is need of garbage collection or not.       Resources   Kindly have a look at these important resources for better understanding and getting idea about Garbage Collection.       http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html       http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html       http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html       http://javaproseeker.blogspot.jp/2014/08/anatomy-of-g1-garbage-first-collector.html]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[      Aspects of Slow Performing Applications   Application Level Problems   Multi-Threading/Deadlock Issues   Transactional/Synchronizations Issues   Memory Allocation/Management Issues   Bad Application Architecture   Un-Suitable OR Less Capable Framework Selection   Under or Over Estimated Application Capacity or Load   Bad Coding Issues   No Better or Suitable Use of Cache, No SQL DB   Bad Query Writing (If Applicable)   Infrastructural Level Problems   Application Layers/Tiers Bottlenecks   IO Calls/Resources Bottlenecks (Application, Cache, DB)   Underperformed or Already Heavily Loaded Physical Servers (Application, Cache, DB)   Not Properly Tuned Physical Servers for OS, DB, Cache, JVM/Tomcat   Infrastructural Bottlenecks (Firewalls, VPNs, Security Layers, Network Channel)   Mis-Calculated Failover or Scalability Strategy           Aspects To Consider For Great Performing Applications   Application Level Considerations   Concurrency Aspects [To Be Taken Care, During Design &amp; Implementation]: Following are important aspects of a distributed, multi-tier, concurrent &amp; multi- threaded applications, which needed to be taken care care of during design &amp; implementation:       Smooth &amp; Concurrent Application Logging       Graceful Exception/Error Handling especially Deadlocks       Graceful Transaction Handling considering ACID Approach (Either Optimistic or Pessimistic Locking)       Parallel &amp; Sequential Request Handling Capability       Usage of Thread Safe &amp; Concurrent Data Structures &amp; Collections       Adapting &amp; Utilizing Design Patterns e.g. GoF or SOLID       Using Code Review Tools e.g. Sonar, FindBug, PMD       Adapting &amp; Utilizing Performance Best Practices During Design &amp; Coding       Code Reviews w.r.t Performance       Regression / Load / Performance Testing       Application Performance Management &amp; Review w.r.t Load &amp; Volume using Regression Testing       Application Performance Benchmarking using Performance Testing       Identification of Resources OR Memory Leaking using Profiling Tools       Optimise Use of Cache &amp; DB       DBMS Tuning (Proper Clustered &amp; Non-Clustered Indexes &amp; Choice of Rights Indexes w.r.t Load and Data Type)       Optimized SQL Query Writing (If Applicable), Reviewed Query Execution Plans w.r.t Indexes       Use of Cache OR No SQL DB for Static or Long Lived Data Objects               Infrastructural Level Considerations   Scalability Strategy:   Horizontal (Application Nodes)       Vertical (Application Tiers/Layers)       Failover &amp; High Availability Strategy:   Application Level (Parallel Nodes)   Application Server Level (e.g. Tomcat)   Server Level (e.g. Physical Machine)   Data Center Level (e.g. Data Center A)   Region Level e.g. (e.g. EU, US, LAC, AP, CEMEA)   Data Management   Data Volume Forecasting w.r.t DB Nodes &amp; Disk Space Required (Monthly, Quarterly and Yearly)   Data Capacity Planning w.r.t Data Volume   Data Archiving &amp; Purging Strategy   DB Load Management, Database Failover &amp; Recovery Strategy   Multiple DB Nodes Handling Strategy &amp; e.g. Primary, Secondary, Tertiary   Syncing &amp; Real-time Backups of DB   Offline Database Backups Strategy       Non-Functional Considerations   Handling N Concurrent Requests/Users   Handling High Data Volume   Optimization and Performance   Multi-threading and Concurrency   Portability   High Availability   Vertical &amp; Horizontal Scalability   Security Benchmarking   Performance Benchmarking   Threat Modeling &amp; Vulnerability Scans   Continuous Integration   Multi Hardware, OS, JDK, DB, App Servers, Internet Browsers, Protocols &amp; Use Agents Support           Fine Tuned JVM for Better Garbage Collection and Application Performance   The Java Garbage Collector is referred to as a Generational Garbage Collector. Objects in an application live for varying lengths of time depending on where they are created and how they are used. The key insight here is that using different garbage collection strategies for short lived and long lived objects allows the GC to be optimised specifically for each case. Loosely speaking as objects “survive” repeated garbage collections in the Young Generation they are migrated to the Tenured Generation. The Permanent Generation is a special case, it contains objects that are needed by the JVM that are not necessarily represented in your program, for example objects that represent classes and methods.       Java Heap Memory is part of memory allocated to JVM by Operating System. Whenever we create objects they are created inside heap in java. Java Heap space is divided into three regions or generation for sake of garbage collection called Young Generation, Old or Tenured Generation and Permanent Generation.       The Young Generation is where all new objects are allocated and aged. When the young generation fills up, this causes a minor garbage collection. A young generation full of dead objects is collected very quickly. Some surviving objects are aged and eventually move to the old generation.       The Old Generation is used to store long surviving objects. Typically, a threshold is set for young generation object and when that age is met, the object gets moved to the old generation. Eventually the old generation needs to be collected. This event is called a major garbage collection.       The Permanent Generation contains metadata required by the JVM to describe the classes and methods used in the application. The permanent generation is populated by the JVM at runtime based on classes in use by the application. PermGen has been replaced with Metaspace since Java 8 release. PermSize &amp; MaxPermSize parameters will be ignored now.       Following are the factors which can affect the performance of JVM and in result performance of application:       Number of Iterations of Full/Major Garbage Collection   Uncontrolled &amp; Frequent Iterations of Minor Garbage Collection   Managing Heap Size and Stack Size / Thread Process Space   JIT Optimization   Selection of Appropriate GCs For Young &amp; Tenured Memory Space   Running JVM On Defaults w/o Understanding Nature of System   Scope of Tuning of System e.g. For Throughtput, Handling Short or Long Lived Objects, Batch Routines, Heavy Processing   Non-Heap GC   Although applications performance is mainly rely on, how it is developed and/or aptitude of programming and/or good programming practices. Surely tuning JVM will not solve problems related to bad programming or selection of inappropriate data structures. But with the help fine tuned JVM we can get better results w.r.t handling of unusual load and better throughput and memory management.       Proposed JVM Settings       -server -Xss4m -Xms4096m -Xmx4096m -XX:+UseG1GC -XX:+HeapDumpOnOutOfMemoryError -XX:+AggressiveOpts -XX:+DoEscapeAnalysis -Xnoclassgc -XX:+UseBiasedLocking -XX:ReservedCodeCacheSize=48m -XX:+UseCompressedOops   -XX:+UseStringDeduplication -XX:MaxGCPauseMillis=200 -XX:GCPauseIntervalMillis=4000       -XX:+AggressiveOpts: JVM performance optimisation, it enables some internal mechanism of JVM for better throughput and memory management       -XX:+UseBiasedLocking: Performance optimisation of locking mechanism specifically synchronization       -XX:+DoEscapeAnalysis: less GC activity and 14x faster execution of code       -XX:ReservedCodeCacheSize: JIT optimization       -XX:+UseStringDeduplication: https://blog.codecentric.de/en/2014/08/string-deduplication-new-feature-java-8-update-20-2/       -XX:+UseCompressedOops: When this option is enabled, object references are represented as 32-bit offsets instead of 64-bit pointers, which typically increases performance when running the application with Java heap sizes less than 32 GB. This option works only for 64-bit JVMs.       As we are aware that all the GCs are “Stop The World”, even CMS and G1GC when there is need of Full/Major GC. But G1GC has special capability, that it’ll collect memory with minor garbage collection during normal transaction processing without being stoping any operations/thread within JVM. Because G1Gc supports Parallelism, Concurrency and Multi-Threading.       The purpose of these below JVM Params controlling Major GC:       -XX:MaxGCPauseMillis=200: The value of this param will pause/stop all threads for 200 Millis for Garbage Collection.       -XX:GCPauseIntervalMillis=4000: Using value of this params G1GC will look after 4 seconds to see if there is need of garbage collection or not.       Resources   Kindly have a look at these important resources for better understanding and getting idea about Garbage Collection.       http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html       http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html       http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html       http://javaproseeker.blogspot.jp/2014/08/anatomy-of-g1-garbage-first-collector.html]]></summary></entry><entry><title type="html">CV</title><link href="http://localhost:4000/2022/01/06/CVS.html" rel="alternate" type="text/html" title="CV" /><published>2022-01-06T00:00:00-05:00</published><updated>2022-01-06T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/06/CVS</id><content type="html" xml:base="http://localhost:4000/2022/01/06/CVS.html"><![CDATA[<h1 id="jeff-m">Jeff M</h1>
+<h2 id="senior-java-developer-c-cloud-fullstack">Senior Java Developer, C++, Cloud, Fullstack</h2>
+
+<blockquote>
+  <p><a href="https://lovejavaee.github.io/digital-cv/">digital-cv</a></p>
+</blockquote>
+
+<blockquote>
+  <p><a href="resume.pdf">Download PDF</a></p>
+</blockquote>
+
+<blockquote>
+  <p>GPG Key ID : 0x6B5E140C
+<!-- [xx@abc.com](xx@abc.com) -->
+<!-- (999) 888-7777 --></p>
+</blockquote>
+
+<hr />
+
+<h3 id="profile">Profile</h3>
+
+<p>Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.</p>
+
+<hr />
+
+<h3 id="skills">Skills</h3>
+
+<ul>
+  <li>
+    <dl>
+      <dt>Agile development methodologies</dt>
+      <dd>Iterative approach to project management and software development, working software over comprehensive documentation; customer collaboration over contract negotiation; and. responding to change over following a plan.</dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt>SDLC processes</dt>
+      <dd>Planning, analysis, design, building, testing, deployment and maintenance.</dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt>Application development</dt>
+      <dd>Design, develop, and deploy…</dd>
+    </dl>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="technical--programming-languages">Technical &amp; Programming Languages</h3>
+<ol>
+  <li>Java</li>
+  <li>C++</li>
+  <li>Python</li>
+  <li>Shell</li>
+  <li>ML/DL</li>
+  <li>SQL</li>
+  <li>XML/XSD</li>
+  <li>Windows XP/Vista</li>
+  <li>Unix/Linux</li>
+</ol>
+
+<hr />
+
+<h3 id="tools--apis--libraries">Tools &amp; APIs &amp; Libraries</h3>
+
+<ol>
+  <li>Clion</li>
+  <li>Intellij IDEA</li>
+  <li>Xcode</li>
+  <li>VSCode</li>
+  <li>OpenCV</li>
+  <li>Unity</li>
+  <li>Git/Github</li>
+  <li>CMake/Maven</li>
+  <li>Linux</li>
+  <li>Docker</li>
+  <li>K8s</li>
+  <li>Spring Boot</li>
+  <li>Heroku</li>
+  <li>AWS/GCP</li>
+</ol>
+
+<hr />
+
+<h3 id="experience">Experience</h3>
+<ol>
+  <li>Developed user interfaces and display formats per customer requests and client-provided parameters.</li>
+  <li>Created and reviewed operational database assets for software releases.</li>
+  <li>Wrote, tested and deployed Python and React code, verifying operational and UX integrity for releases.</li>
+  <li>Collaborated with backend personnel to design structure and processes optimized for product parameters.</li>
+  <li>Wrote code specifically for use in asynchronous architecture environments.</li>
+  <li>Modified internal web tools used in software design processes to streamline operations.</li>
+  <li>Updated existing RESTful APIs and corresponding documentation to suit changing requirements.</li>
+  <li>Designed user-friendly software interfaces to simplify overall management.</li>
+  <li>Implemented and tested enhancement feature requests to improve product functionality and extend performance.</li>
+  <li>Documented technical specifications and project testing methods for future reference and other assignments.</li>
+  <li>Collaborated with agile development team to test, develop and maintain web and desktop-based software applications.</li>
+  <li>Communicated with and gathered feedback from customers about progress updates and worked to resolve specific concerns.</li>
+  <li>Conducted full lifecycle software development in multiple software environments.</li>
+  <li>Performed functional, non-functional, regression and performance tests for updated systems.</li>
+  <li>Drafted detailed design objectives and developed architectural and system design documents.</li>
+  <li>Created proof-of-concept prototype applications for demonstration and evaluation purposes.</li>
+  <li>Logged and implemented development tasks based on system requirements and documented approaches.</li>
+  <li>Introduced automation tools to reduce redundancy and enhance workflow.</li>
+  <li>Collaborated with product and engineering team members to define and develop new product concepts.</li>
+  <li>Developed proofs of concept for creative new solutions.</li>
+  <li>Delivered software solutions consistent with product roadmap, release plan milestones and key performance indicators.</li>
+  <li>Coordinated with project managers across multiple initiatives to align development timelines, plan testing and work with client representatives.</li>
+  <li>Liaised with QA testers to perform end-to-end unit testing and post-production testing.</li>
+  <li>Instrumented and modified unit and integration tests to improve software quality and reliability.</li>
+  <li>Evaluated software development project plans and recommended adjustments.</li>
+  <li>Led working groups to develop mitigation strategies and prepare standard operating procedures.</li>
+  <li>Cooperated with project partners to create development software roadmap based on client specifications and user-guided design.</li>
+  <li>Analyzed solutions and coding fixes for software problems.</li>
+  <li>Identified issues in software processes and implemented optimization techniques resulting in productivity increase.</li>
+  <li>Devised test case plans based on real-world use case scenarios to produce high-quality results and improvement in development timeline.</li>
+  <li>Met with stakeholders, contractor product teams and customers throughout system development lifecycle.</li>
+  <li>Scheduled ongoing performance assurance for software applications and automated performance test scripts.</li>
+  <li>Developed cross-platform activity feed for social networking software products.</li>
+  <li>Recommended key updates to system software based on performance data, user feedback and integrated software enhancements.</li>
+  <li>Collaborated with user experience designers to create clean interfaces and simple, intuitive interactions and functions for software package.</li>
+  <li>Assessed technical architecture and framework and designed business applications to exceed client expectations.</li>
+  <li>Wrote cross-platform software for serviceability components and exported system performance counters.</li>
+  <li>Integrated scanning component based on server system.</li>
+  <li>Participated in sales presentations to translate user needs into easy-to-understand software solutions.</li>
+  <li>
+    <p>Formed dynamic team of software engineers to implement tiger team approach to critical issues affecting production.</p>
+  </li>
+  <li>Created technical workflows in wiki to support education and training of newly hired employees.</li>
+  <li>Initiated efforts to migrate legacy applications to [Software] platform.</li>
+  <li>Mentored and developed junior developers and engineers to increase productivity.</li>
+  <li>Performed estimates of work hours and tracked progress using Agile and Scrum methodology.</li>
+  <li>Performed root cause analysis of problems, documented faults in tracking system and generated daily reports.</li>
+  <li>Integrated web-based services into software for distribution via on-premise and cloud-based deployments.</li>
+  <li>Set idiomatic syntax and design patterns for engineering staff.</li>
+  <li>Participated in agile development of products within cross-functional frameworks.</li>
+  <li>Developed customized solutions for data pipelines using SWL and NoSQL data stores.</li>
+  <li>Planned and created scalable and extensible systems for growing companies with intended expansion tracks.</li>
+  <li>Drafted standardized development practices to streamline and increase reliability of repetitive tasks.</li>
+  <li>Implemented and monitored vital analytics to record and track development progress metrics.</li>
+  <li>Created cloud-native platforms and software, optimizing products to work in distributed computing environments.</li>
+  <li>Created and implemented forward-thinking systems to meet user needs and improve productivity.</li>
+  <li>Developed product and technology roadmap and strategy from concept to launch.</li>
+  <li>Collaborated with development team members to create and integrate high availability solutions for mission-critical applications.</li>
+  <li>Cooperated with project partners to develop system analysis and new system design based on client specifications.</li>
+  <li>Worked closely with development team members to identify and remove software bugs.</li>
+  <li>Designed mobile applications for Apple and Android platforms.</li>
+  <li>Monitored equipment functionality to verify optimal performance and adjust system controls.</li>
+  <li>
+    <h2 id="researched-and-conceptualized-data-analysis-methods-to-improve-reliability-and-manufacturability-of-measurement-tools">Researched and conceptualized data analysis methods to improve reliability and manufacturability of measurement tools.</h2>
+  </li>
+</ol>
+
+<h3 id="ml">ML</h3>
+
+<ol>
+  <li>Identified, researched and evaluated innovative machine learning technologies, explaining details to coworkers.</li>
+  <li>Participated in meetings, code reviews, demos, design sessions, and project retrospectives.</li>
+  <li>Designed and deployed machine learning models into product stack in support of product development.</li>
+  <li>Established scalable automated processes to develop, validate and implement machine learning models.</li>
+  <li>Reviewed code changes made by team for accuracy and relevance.</li>
+  <li>Communicated complex machine learning solutions and concepts to diverse group of business stakeholders in clear, concise language.</li>
+  <li>Gathered customer requirements and developed machine learning product features to address needs.</li>
+  <li>Researched, designed and deployed next generation of architectures, workflows and standards to integrate with key product features across organization.</li>
+  <li>Facilitated integration of machine learning services into technology infrastructure.</li>
+  <li>Initiated A/B tests to validate model performance prior to production.</li>
+  <li>Partnered with [Job title] to create model training workflows for use by end-users.</li>
+  <li>Mentored and coached team of [Number] [Job title]s to support career growth.</li>
+  <li>Developed software for embedded systems, coding solutions for both new installations and in-situ hardware.</li>
+  <li>Recommended strategies to maximize performance and lifespan of equipment involved in software installations.</li>
+  <li>Assessed code during testing stage to determine potential glitches and bugs.</li>
+  <li>Participated in intra-organizational staff meetings to coalesce company-wide efforts around meeting prescribed business goals and addressing client concerns.</li>
+  <li>Updated software upon release of vendor patches to mitigate vulnerabilities.</li>
+  <li>Monitored equipment function to verify conformance with specifications.</li>
+  <li>Managed [Number] junior developers by delivering consistent coaching and constructive feedback.</li>
+  <li>Modified existing software to correct errors, adapt to newly implemented hardware or upgrade interfaces.</li>
+  <li>Applied security measures into systems development, supporting final products’ resistance to intrusion and exploitation.</li>
+  <li>Identified opportunities for process improvements to decrease in support calls.</li>
+  <li>Coordinated testing and validation procedures through software development lifecycle.</li>
+  <li>Analyzed code and corrected errors to optimize output.</li>
+  <li>Obtained and evaluated information on hardware configuration costs, reporting requirements and security needs.</li>
+  <li>Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions.</li>
+  <li>Performed troubleshooting of post-release software faults to support live service and installed software patch design.</li>
+  <li>Developed requirements for system modifications and new system installations.</li>
+  <li>Worked closely with systems analysts, engineers and programmers to understand limitations, develop capabilities and resolve software problems.</li>
+  <li>Recommended improvements to facilitate team and project workflow.</li>
+  <li>Improved and corrected existing software and system applications.</li>
+  <li>Analyzed user needs and software requirements to determine design feasibility.</li>
+  <li>Established clear system performance standards and wrote specifications.</li>
+  <li>Employed integrated development environments (IDEs).</li>
+  <li>Wrote user manuals and other documentation for roll-out in customer training sessions.</li>
+  <li>Utilized established design patterns to expedite novel software creation and support consistent performance results.</li>
+  <li>Designed software for real-time operating systems QNX, ThreadX and others.</li>
+  <li>Integrated object-oriented design and development techniques into projects to support usability goals.</li>
+  <li>Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.</li>
+  <li>Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal development approaches.</li>
+  <li>Applied prescribed policies to programming syntax in compliance with internal language policies.</li>
+  <li>Reviewed project requirements to identify customer expectations and resources needed to meet goals.</li>
+  <li>Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.</li>
+  <li>Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective solutions.</li>
+  <li>Coordinated system installations, testing and code corrections.</li>
+  <li>Established and maintained key relationships with business stakeholders to promote future opportunities.</li>
+  <li>Implemented unit and integration testing protocols to consistently deliver high quality, functional features with minimal defects.</li>
+  <li>Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final implementation.</li>
+  <li>Designed, developed and implemented firmware to support embedded system product concepts.</li>
+  <li>Devised automation, backup and recovery protocols to preserve and safeguard data.</li>
+  <li>Coordinated installation of software systems and collaborated with user experience team on design and implementation of new features.</li>
+  <li>Supervised [Number]-person team, discussed project roadblocks to drive issue resolution and promoted use of best practices.</li>
+  <li>Supervised team of developers in analysis and creation of [Type] software.</li>
+</ol>
+
+<h3 id="footer">Footer</h3>
+<!-- Craig Davis -- [xx@abc.com](xx@abc.com) -- (999) 888-7777 -->
+<blockquote>
+  <p>GPG Key ID : 0x6B5E140C</p>
+</blockquote>
+
+<hr />]]></content><author><name></name></author><summary type="html"><![CDATA[Jeff M Senior Java Developer, C++, Cloud, Fullstack]]></summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/2022/01/02/This-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2022-01-02T00:00:00-05:00</published><updated>2022-01-02T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/02/This%20post%20demonstrates%20post%20content%20styles</id><content type="html" xml:base="http://localhost:4000/2022/01/02/This-post-demonstrates-post-content-styles.html"><![CDATA[<h1 id="this-post-demonstrates-post-content-styles">This post demonstrates post content styles</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.</p>
+
+<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+
+<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+
+<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<blockquote>
+  <p>This quote will <em>change</em> your life. It will reveal the <em>secrets</em> of the universe, and all the wonders of humanity. Don’t <em>misuse</em> it.</p>
+</blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
+
+<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
+
+<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;html&gt;
+  &lt;head&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;Hello, World!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre></div></div>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h5 id="could-be-a-smaller-sub-heading-pacman-h5">Could be a smaller sub-heading, <code class="language-plaintext highlighter-rouge">pacman</code> (h5)</h5>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h6 id="small-yet-significant-sub-heading-h6">Small yet significant sub-heading (h6)</h6>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ul>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ul>
+
+<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ol>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ol>
+
+<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="tables">Tables</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit amet consectetur</td>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum</td>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit amet consectetur</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[This post demonstrates post content styles]]></summary></entry><entry><title type="html">Some articles are just so long they deserve a really long title to see if things will break well</title><link href="http://localhost:4000/2022/01/01/Some-articles-are-just-so-long-they-deserve-a-really-long-title-to-see-if-things-will-break-well.html" rel="alternate" type="text/html" title="Some articles are just so long they deserve a really long title to see if things will break well" /><published>2022-01-01T00:00:00-05:00</published><updated>2022-01-01T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/01/Some%20articles%20are%20just%20so%20long%20they%20deserve%20a%20really%20long%20title%20to%20see%20if%20things%20will%20break%20well</id><content type="html" xml:base="http://localhost:4000/2022/01/01/Some-articles-are-just-so-long-they-deserve-a-really-long-title-to-see-if-things-will-break-well.html"><![CDATA[<h1 id="some-articles-are-just-so-long-they-deserve-a-really-long-title-to-see-if-things-will-break-well">Some articles are just so long they deserve a really long title to see if things will break well</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Some articles are just so long they deserve a really long title to see if things will break well]]></summary></entry><entry><title type="html">The example post</title><link href="http://localhost:4000/2021/02/01/The-Example-Post.html" rel="alternate" type="text/html" title="The example post" /><published>2021-02-01T00:00:00-05:00</published><updated>2021-02-01T00:00:00-05:00</updated><id>http://localhost:4000/2021/02/01/The%20Example%20Post</id><content type="html" xml:base="http://localhost:4000/2021/02/01/The-Example-Post.html"><![CDATA[<h1 id="my-example-post">My Example Post</h1>
+
+<p>Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.</p>
+
+<p>No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[My Example Post]]></summary></entry><entry><title type="html">Some articles are just so short that we have to make the footer stick</title><link href="http://localhost:4000/2020/02/12/Some-articles-are-just-so-short-that-we-have-to-make-the-footer-stick.html" rel="alternate" type="text/html" title="Some articles are just so short that we have to make the footer stick" /><published>2020-02-12T00:00:00-05:00</published><updated>2020-02-12T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/12/Some%20articles%20are%20just%20so%20short%20that%20we%20have%20to%20make%20the%20footer%20stick</id><content type="html" xml:base="http://localhost:4000/2020/02/12/Some-articles-are-just-so-short-that-we-have-to-make-the-footer-stick.html"><![CDATA[<h1 id="some-articles-are-just-so-short-that-we-have-to-make-the-footer-stick">Some articles are just so short that we have to make the footer stick</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Some articles are just so short that we have to make the footer stick]]></summary></entry></feed>

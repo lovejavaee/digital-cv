@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jeff' Page
-email: "GPG key ID: 0x6B5E140C"
+name: ""
+# title: null
+title: Home Pages
+# email: "GPG key ID: 0x6B5E140C"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Systems Design, Distributed Systems, ML
@@ -31,6 +33,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+# remote_theme: bebalter/retlab
+# theme: light
 # plugins:
 #   - jekyll-feed
 
@@ -47,14 +51,14 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
