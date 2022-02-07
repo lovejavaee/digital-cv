@@ -1,4 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-06T23:16:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home Pages</title><subtitle>Systems Design, Distributed Systems, ML</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2022/02/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-06T12:36:24-05:00</published><updated>2022-02-06T12:36:24-05:00</updated><id>http://localhost:4000/2022/02/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2022/02/06/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-07T17:41:38-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home Pages</title><subtitle>Systems Design, Distributed Systems, ML</subtitle><entry><title type="html">Protocol buffers google&amp;#8217;s data interchange format</title><link href="http://localhost:4000/2022/02/07/Protocol-Buffers-Google's-data-interchange-format.html" rel="alternate" type="text/html" title="Protocol buffers google&amp;#8217;s data interchange format" /><published>2022-02-07T00:00:00-05:00</published><updated>2022-02-07T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/07/Protocol%20Buffers%20-%20Google's%20data%20interchange%20format</id><content type="html" xml:base="http://localhost:4000/2022/02/07/Protocol-Buffers-Google's-data-interchange-format.html"><![CDATA[<h2 id="protocol-buffers---googles-data-interchange-format">Protocol Buffers - Google’s data interchange format</h2>
+
+<h2 id="overview">Overview</h2>
+
+<p>Protocol Buffers (a.k.a., protobuf) are Google’s language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can find <a href="https://developers.google.com/protocol-buffers/">protobuf’s documentation on the Google Developers site</a>.</p>
+
+<p>This README file contains protobuf installation instructions. To install protobuf, you need to install the protocol compiler (used to compile .proto files) and the protobuf runtime for your chosen programming language.</p>
+
+<h2 id="protocol-compiler-installation">Protocol Compiler Installation</h2>
+
+<p>The protocol compiler is written in C++. If you are using C++, please follow the <a href="https://github.com/protocolbuffers/protobuf/blob/master/src/README.md">C++ Installation Instructions</a> to install protoc along with the C++ runtime.</p>
+
+<p>For non-C++ users, the simplest way to install the protocol compiler is to download a pre-built binary from our release page:</p>
+
+<p>https://github.com/protocolbuffers/protobuf/releases</p>
+
+<p>In the downloads section of each release, you can find pre-built binaries in zip packages: protoc-$VERSION-$PLATFORM.zip. It contains the protoc binary as well as a set of standard .proto files distributed along with protobuf.</p>
+
+<p>If you are looking for an old version that is not available in the release page, check out the maven repo here:</p>
+
+<p>https://repo1.maven.org/maven2/com/google/protobuf/protoc/</p>
+
+<p>These pre-built binaries are only provided for released versions. If you want to use the github master version at HEAD, or you need to modify protobuf code, or you are using C++, it’s recommended to build your own protoc binary from source.</p>
+
+<p>If you would like to build protoc binary from source, see the <a href="https://github.com/protocolbuffers/protobuf/blob/master/src/README.md">C++ Installation Instructions</a>.</p>
+
+<h2 id="protobuf-runtime-installation">Protobuf Runtime Installation</h2>
+
+<p>Protobuf supports several different programming languages. For each programming language, you can find instructions in the corresponding source directory about how to install protobuf runtime for that specific language:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>C++ (include C++ runtime and protoc)</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/src">src</a></td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/java">java</a></td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/python">python</a></td>
+    </tr>
+    <tr>
+      <td>Objective-C</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/objectivec">objectivec</a></td>
+    </tr>
+    <tr>
+      <td>C#</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/csharp">csharp</a></td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/js">js</a></td>
+    </tr>
+    <tr>
+      <td>Ruby</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/ruby">ruby</a></td>
+    </tr>
+    <tr>
+      <td>Go</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf-go">protocolbuffers/protobuf-go</a></td>
+    </tr>
+    <tr>
+      <td>PHP</td>
+      <td><a href="https://github.com/protocolbuffers/protobuf/blob/master/php">php</a></td>
+    </tr>
+    <tr>
+      <td>Dart</td>
+      <td><a href="https://github.com/dart-lang/protobuf">dart-lang/protobuf</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="quick-start">Quick Start</h2>
+
+<p>The best way to learn how to use protobuf is to follow the tutorials in our developer guide:</p>
+
+<p>https://developers.google.com/protocol-buffers/docs/tutorials</p>
+
+<p>If you want to learn from code examples, take a look at the examples in the<a href="https://github.com/protocolbuffers/protobuf/blob/master/examples">examples</a> directory.</p>
+
+<h2 id="documentation">Documentation</h2>
+
+<p>The complete documentation for Protocol Buffers is available via the web at:</p>
+
+<p>https://developers.google.com/protocol-buffers/</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Protocol Buffers - Google’s data interchange format]]></summary></entry><entry><title type="html">Gprc A high performance, open source universal rpc framework</title><link href="http://localhost:4000/2022/02/07/gPRC-A-high-performance,-open-source-universal-RPC-framework.html" rel="alternate" type="text/html" title="Gprc A high performance, open source universal rpc framework" /><published>2022-02-07T00:00:00-05:00</published><updated>2022-02-07T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/07/gPRC%20-A%20high%20performance,%20open%20source%20universal%20RPC%20framework</id><content type="html" xml:base="http://localhost:4000/2022/02/07/gPRC-A-high-performance,-open-source-universal-RPC-framework.html"><![CDATA[<h2 id="gprc--a-high-performance-open-source-universal-rpc-framework">gPRC -A high performance, open source universal RPC framework</h2>
+
+<h2 id="why-grpc">Why gRPC?</h2>
+
+<p>gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.</p>
+
+<p><strong>Google Remote Procedure Call</strong> is an open source remote procedure call Google  in 2015 as the next generation of the RPC infrastructure Stubby. It uses HTTP/2 for transport, <a href="https://en.wikipedia.org/wiki/Protocol_Buffers">Protocol Buffers</a> as the <a href="https://en.wikipedia.org/wiki/Interface_description_language">interface description language</a>, and provides features such as authentication, bidirectional streaming and <a href="https://en.wikipedia.org/wiki/Flow_control_(data)">flow control</a>, blocking or nonblocking bindings, and cancellation and timeouts. It generates cross-platform client and server bindings for many languages. Most common usage scenarios include connecting services in a <a href="https://en.wikipedia.org/wiki/Microservices">microservices</a> style architecture, or connecting mobile device clients to backend services.</p>
+
+<h3 id="simple-service-definition">Simple service definition</h3>
+
+<p>Define your service using Protocol Buffers, a powerful binary serialization toolset and language</p>
+
+<h3 id="start-quickly-and-scale">Start quickly and scale</h3>
+
+<p>Install runtime and dev environments with a single line and also scale to millions of RPCs per second with the framework</p>
+
+<h3 id="works-across-languages-and-platforms">Works across languages and platforms</h3>
+
+<p>Automatically generate idiomatic client and server stubs for your service in a variety of languages and platforms</p>
+
+<h3 id="bi-directional-streaming-and-integrated-auth">Bi-directional streaming and integrated auth</h3>
+
+<p>Bi-directional streaming and fully integrated pluggable authentication with HTTP/2-based transport</p>
+
+<h5 id="grpcs-complex-use-of-http2-makes-it-impossible-to-implement-a-grpc-client-in-the-browser-instead-requiring-a-proxy">gRPC’s complex use of HTTP/2 makes it impossible to implement a gRPC client in the browser, instead requiring a proxy</h5>
+
+<h4 id="grpc-is-a-cncf-incubation-project-now">gRPC is a <a href="https://cncf.io/">CNCF</a> incubation project now.</h4>
+
+<h4 id="grpc-example">gRPC Example：</h4>
+
+<p><img src="/Users/willson/tmp/source/lovejavaee.github.io/assets/imgs/image-20220207153148635-4265911.png" alt="image-20220207153148635" /></p>
+
+<h4 id="grpc-features">gRPC Features:</h4>
+
+<p><img src="https://raw.githubusercontent.com/lovejavaee/oss/backup/uPic/2022/02/image-20220207153518311.png?token=ABCBZTHBRG33ELGBG53SOUDCAGQCK" alt="image-20220207153518311" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[gPRC -A high performance, open source universal RPC framework]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2022/02/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-06T12:36:24-05:00</published><updated>2022-02-06T12:36:24-05:00</updated><id>http://localhost:4000/2022/02/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2022/02/06/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -14,7 +141,46 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">Application Performance &amp;amp; JVM Hot Spot Tuning</title><link href="http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html" rel="alternate" type="text/html" title="Application Performance &amp;amp; JVM Hot Spot Tuning" /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning</id><content type="html" xml:base="http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html"><![CDATA[<table>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">Python remote object communication library</title><link href="http://localhost:4000/2022/02/06/Python-Remote-object-communication-library.html" rel="alternate" type="text/html" title="Python remote object communication library" /><published>2022-02-06T00:00:00-05:00</published><updated>2022-02-06T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/06/Python%20Remote%20object%20communication%20library</id><content type="html" xml:base="http://localhost:4000/2022/02/06/Python-Remote-object-communication-library.html"><![CDATA[<h2 id="python-remote-object-communication-library">Python Remote object communication library</h2>
+
+<h2 id="info">Info</h2>
+
+<p>Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort. You can just use normal Python method calls, and Pyro takes care of locating the right object on the right computer to execute the method. It is designed to be very easy to use, and to stay out of your way. But it also provides a set of powerful features that enables you to build distributed applications rapidly and effortlessly. Pyro is a pure Python library and runs on many different platforms and Python versions.</p>
+
+<p>Pyro can be found on Pypi as <a href="http://pypi.python.org/pypi/Pyro5/">Pyro5</a>.</p>
+
+<p>Source is on Github: https://github.com/irmen/Pyro5Documentation is here: https://pyro5.readthedocs.io/</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>written in 100% Python so extremely portable, supported on Python 3.7 and newer, and Pypy3</li>
+  <li>works between different system architectures and operating systems.</li>
+  <li>able to communicate between different Python versions transparently.</li>
+  <li>defaults to a safe serializer (<a href="https://pypi.python.org/pypi/serpent">serpent</a>) that supports many Python data types.</li>
+  <li>supports different serializers (serpent, json, marshal, msgpack).</li>
+  <li>can use IPv4, IPv6 and Unix domain sockets.</li>
+  <li>optional secure connections via SSL/TLS (encryption, authentication and integrity), including certificate validation on both ends (2-way ssl).</li>
+  <li>lightweight client library available for .NET and Java native code (‘Pyrolite’, provided separately).</li>
+  <li>designed to be very easy to use and get out of your way as much as possible, but still provide a lot of flexibility when you do need it.</li>
+  <li>name server that keeps track of your object’s actual locations so you can move them around transparently.</li>
+  <li>yellow-pages type lookups possible, based on metadata tags on registrations in the name server.</li>
+  <li>support for automatic reconnection to servers in case of interruptions.</li>
+  <li>automatic proxy-ing of Pyro objects which means you can return references to remote objects just as if it were normal objects.</li>
+  <li>one-way invocations for enhanced performance.</li>
+  <li>batched invocations for greatly enhanced performance of many calls on the same object.</li>
+  <li>remote iterator on-demand item streaming avoids having to create large collections upfront and transfer them as a whole.</li>
+  <li>you can define timeouts on network communications to prevent a call blocking forever if there’s something wrong.</li>
+  <li>remote exceptions will be raised in the caller, as if they were local. You can extract detailed remote traceback information.</li>
+  <li>http gateway available for clients wanting to use http+json (such as browser scripts).</li>
+  <li>stable network communication code that has worked reliably on many platforms for over a decade.</li>
+  <li>can hook onto existing sockets created for instance with socketpair() to communicate efficiently between threads or sub-processes.</li>
+  <li>possibility to integrate Pyro’s event loop into your own (or third party) event loop.</li>
+  <li>three different possible instance modes for your remote objects (singleton, one per session, one per call).</li>
+  <li>many simple examples included to show various features and techniques.</li>
+  <li>large amount of unit tests and high test coverage.</li>
+  <li>reliable and established: built upon more than 20 years of existing Pyro history, with ongoing support and development.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Python Remote object communication library]]></summary></entry><entry><title type="html">Application Performance &amp;amp; JVM Hot Spot Tuning</title><link href="http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html" rel="alternate" type="text/html" title="Application Performance &amp;amp; JVM Hot Spot Tuning" /><published>2022-02-02T00:00:00-05:00</published><updated>2022-02-02T00:00:00-05:00</updated><id>http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning</id><content type="html" xml:base="http://localhost:4000/2022/02/02/Application-Performance-and-JVM-Hot-Spot-Tuning.html"><![CDATA[<table>
   <tbody>
     <tr>
       <td> </td>
@@ -716,7 +882,79 @@
 
 <h2 id="xii-admin-processes"><a href="https://12factor.net/admin-processes">XII. Admin processes</a></h2>
 
-<h3 id="run-adminmanagement-tasks-as-one-off-processes">Run admin/management tasks as one-off processes</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">CV</title><link href="http://localhost:4000/2022/01/06/CVS.html" rel="alternate" type="text/html" title="CV" /><published>2022-01-06T00:00:00-05:00</published><updated>2022-01-06T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/06/CVS</id><content type="html" xml:base="http://localhost:4000/2022/01/06/CVS.html"><![CDATA[<h1 id="jeff-m">Jeff M</h1>
+<h3 id="run-adminmanagement-tasks-as-one-off-processes">Run admin/management tasks as one-off processes</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Lrpc lightweight rpc</title><link href="http://localhost:4000/2022/01/07/LRPC-Lightweight-RPC.html" rel="alternate" type="text/html" title="Lrpc lightweight rpc" /><published>2022-01-07T00:00:00-05:00</published><updated>2022-01-07T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/07/LRPC%20-%20Lightweight%20RPC</id><content type="html" xml:base="http://localhost:4000/2022/01/07/LRPC-Lightweight-RPC.html"><![CDATA[<h2 id="lrpc---lightweight-rpc">LRPC - Lightweight RPC</h2>
+
+<p>Lightweight RPCs are the special case of RPCs where calling process and the called process are on the same machine. Remember the two forms of communication of a distributed system – explicit (passing data) and implicit (sharing memory). You can think of not using a RPC system for the special case that both processes are on the same machine but using a shared piece memory. The optimization is to construct the message as a buffer and simply write to the shared memory region. When client and server both are two processes on the same machine and you make RPC calls between two components on the same machine, following are the things which can make it better over the traditional RPC.</p>
+
+<blockquote>
+  <p>Lightweight Remote Procedure Call (LRPC) is a communication facility designed and optimized for communication between protection domains on the same machine. In contemporary small-kernel operating systems, existing RPC systems incur an unnecessarily high cost when used for the type of communication that predominates-between protection domains on the same machine. This cost leads system designers to coalesce weakly related subsystems into the same protection domain, trading safety for performance. By reducing the overhead of same-machine communication, LRPC encourages both safety and performance.</p>
+</blockquote>
+
+<h2 id="overviewmain-points">Overview/Main Points</h2>
+
+<ul>
+  <li>
+    <p>The Case for Lightweight RPC (LRPC):</p>
+
+    <ul>
+      <li>Monolithic kernels are insulated from user programs, but few protection boundaries exist within the OS itself, which makes it difficult to modify, debug, and validate.</li>
+      <li>Capability systems consist of fine-grained objects sharing an address space but with their own protection domains. These offer flexibility, modularity, and protection.</li>
+      <li>The common case for communication is between domains on the same machine as opposed to across machines.</li>
+      <li>Most communication is simple, involving few arguments and little data, since complex data is often hidden behind abstractions (Both this and the above point were backed with some questionably representative examples).</li>
+      <li>While RPC is robust enough to handle both local and remote calls, it has high overhead. A lighter weight solution is necessary.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Lightweight RPC features:</p>
+
+    <ul>
+      <li><strong>Simple control transfer:</strong> Conventional RPC involves multiple threads that must send signals and switch context. In LRPC, the kernel changes the address space for the caller’s thread and lets it continue to run in the server domain (at the same priority?).</li>
+      <li><strong>Simple data transfer:</strong>Shared buffers are pre-allocated (when the caller imports the LRPC module) for the communication of arguments and results. The caller copies the data onto the A-stack, after which no other copies are required.</li>
+      <li><strong>Simple stubs:</strong> RPC has general stubs, but many of its features are infrequently needed. LRPC uses a stub generator that produces simple stubs in Modula2+ assembly language.</li>
+      <li><strong>Design for concurrency:</strong>Idle processors in multi-processor machines cache domain contexts to reduce context-switch overhead. Counters are used to keep the highest activity LRPC domains active on idle processors.</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<ul>
+  <li>
+    <p>Performance:</p>
+
+    <ul>
+      <li>3X speedup for single processor.</li>
+      <li>Additional speedups for multiprocessor machines.</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<p>There are several use cases for local RPC, but a very straightforward example is when a server has both remote and local clients.</p>
+
+<p>Let us consider for example an RPC-based print server:</p>
+
+<ul>
+  <li>You may have clients located on remote hosts (e.g. for a networked/sharing print server);</li>
+  <li>You may also have also clients located on the server’s host itself (so that local applications can print too).</li>
+</ul>
+
+<p>Obviously, you don’t want to write both an print-server for remote clients and a separate print-server for local clients. Thus, it is far better if the architecture or middleware allows for designing a print server that can be used indifferently by remote clients (<em>remote RPC</em>) and local clients (<em>local RPC</em>).</p>
+
+<p>At this point, the architecture or middleware ensures a common interface both for local clients and for remote clients: how inter-process communication is achieved in practice must be made fully transparent to the application developer.</p>
+
+<p>However, using the same inter-process communication technology both for remote clients and for local clients may be inefficient. Thus, it is fairly common for the RPC architecture to implement some kind of optimization so as to optimize performance when the server and the client are located on the same host. In spirit, this optimization is very similar to the fact that local network communication use the local loop rather than going back and forth between the host and the network card.</p>
+
+<p><em>Lightweight RPC</em> is one such solution (it is not the only one) allowing for optimizing RPC performance for local clients. When this optimization is implemented into the RPC architecture:</p>
+
+<ul>
+  <li>The same RPC interface can be made available both for local and for remote clients:</li>
+  <li>Application developers do not have to handle the issue that some clients may be local when other clients may be remote;</li>
+  <li>The RPC architecture optimizes under the hood calls to local servers, so that local clients are not penalized by some remote IPC technique that would be sub-optimal for local communication.</li>
+</ul>
+
+<hr />]]></content><author><name></name></author><summary type="html"><![CDATA[LRPC - Lightweight RPC]]></summary></entry><entry><title type="html">CV</title><link href="http://localhost:4000/2022/01/06/CVS.html" rel="alternate" type="text/html" title="CV" /><published>2022-01-06T00:00:00-05:00</published><updated>2022-01-06T00:00:00-05:00</updated><id>http://localhost:4000/2022/01/06/CVS</id><content type="html" xml:base="http://localhost:4000/2022/01/06/CVS.html"><![CDATA[<h1 id="jeff-m">Jeff M</h1>
 <h2 id="senior-java-developer-c-cloud-fullstack">Senior Java Developer, C++, Cloud, Fullstack</h2>
 
 <blockquote>
@@ -1106,6 +1344,4 @@
 
 <p>Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.</p>
 
-<p>No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[My Example Post]]></summary></entry><entry><title type="html">Some articles are just so short that we have to make the footer stick</title><link href="http://localhost:4000/2020/02/12/Some-articles-are-just-so-short-that-we-have-to-make-the-footer-stick.html" rel="alternate" type="text/html" title="Some articles are just so short that we have to make the footer stick" /><published>2020-02-12T00:00:00-05:00</published><updated>2020-02-12T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/12/Some%20articles%20are%20just%20so%20short%20that%20we%20have%20to%20make%20the%20footer%20stick</id><content type="html" xml:base="http://localhost:4000/2020/02/12/Some-articles-are-just-so-short-that-we-have-to-make-the-footer-stick.html"><![CDATA[<h1 id="some-articles-are-just-so-short-that-we-have-to-make-the-footer-stick">Some articles are just so short that we have to make the footer stick</h1>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Some articles are just so short that we have to make the footer stick]]></summary></entry></feed>
+<p>No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[My Example Post]]></summary></entry></feed>
