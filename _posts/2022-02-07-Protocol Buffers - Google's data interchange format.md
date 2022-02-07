@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 ---
 
 
