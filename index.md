@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Table of contents
+<!-- ## Table of contents -->
 
 <!-- For developers - this is a list of all collections and the pages under each -->
-
+---
