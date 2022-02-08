@@ -40,8 +40,8 @@ Bi-directional streaming and fully integrated pluggable authentication with HTTP
 
 #### gRPC Example：
 
-![image-20220207153148635-4265911](../assets/imgs/2022/02/image-20220207153148635-4265911.png)
+![image-20220207153148635-4265911](../assets/imgs/2022/02/2022-02-07-gPRC -A high performance, open source universal RPC framework/image-20220207153148635-4265911.png)
 
 #### gRPC Features:
 
-![image-20220207153518311](../assets/imgs/2022/02/image-20220207153518311.png)
+![image-20220207153518311](../assets/imgs/2022/02/2022-02-07-gPRC -A high performance, open source universal RPC framework/image-20220207153518311.png)
