@@ -5,7 +5,7 @@
 # title: Jeff Blog
 layout: home
 ---
-
+<!--
 Hi there 👋
 
 <h3 align="center">Welcome 🍵</h3>
@@ -23,7 +23,7 @@ I have years of work experience on microservices, high concurrency, high perform
 - 🌱  I cherish the opportunity to learn the technology I am interested in after a few years of work
 -  ⚡  Fun fact: I am currently on going multiple transitions, returning to study after working for years
 - 📫  How to reach me, GPG Key ID : 0x6B5E140C
-
+-->
 
 <!--
 **lovejavaee/lovejavaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
