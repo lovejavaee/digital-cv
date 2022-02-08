@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Tyro - Python Remote object communication library
 ---
 
 

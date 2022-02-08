@@ -1,5 +1,6 @@
 ---
 layout: post
+title: gPRC - A high performance open source universal RPC framework
 ---
 
 ## gPRC -A high performance, open source universal RPC framework
