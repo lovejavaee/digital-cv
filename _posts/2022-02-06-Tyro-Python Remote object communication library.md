@@ -15,7 +15,7 @@ Pyro enables you to build applications in which objects can talk to each other o
 
 Pyro can be found on Pypi as [Pyro5](http://pypi.python.org/pypi/Pyro5/). 
 
-Source is on Github: https://github.com/irmen/Pyro5Documentation is here: https://pyro5.readthedocs.io/
+Source is on [Github](https://github.com/irmen/Pyro5Documentation). Documention is [here]( https://pyro5.readthedocs.io/)
 
 
 
